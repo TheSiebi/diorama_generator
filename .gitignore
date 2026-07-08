@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets (Google Maps API key etc.) — keep .env.example tracked
+.env
+.env.local
+
+# Generated diorama outputs (README previews live in docs/)
+out/
+out_test/
+
+# Copyrighted assets
+assets/
+
+# Local tool settings
+.claude/
