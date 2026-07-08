@@ -1,4 +1,4 @@
-# diorama-generator
+# diorama-generator ![Python Version](https://img.shields.io/badge/Python-3.12-blue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Generate 3D-printable dioramas of Switzerland from a location and a radius.
 The pipeline geocodes the location, pulls swisstopo terrain, buildings, and
