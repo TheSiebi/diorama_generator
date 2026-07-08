@@ -153,7 +153,7 @@ swissBUILDINGS3D there as well (at the cost of slightly older buildings).
 
 ![preview: Esri R&D Center Zürich, 307 m radius](docs/esri.png)
 
-And here's how this may look like 3D-printed (using Snapmaker U1), using a custom 
+And here's how this may look like 3D-printed, using a Snapmaker U1 and a custom 
 model for the base:
 
 <img width="2275" height="1279" alt="image" src="https://github.com/user-attachments/assets/261be5d8-06b4-46b2-92a5-5393c12cd6a3" />
